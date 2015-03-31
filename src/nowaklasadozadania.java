@@ -9,5 +9,5 @@
  */
 public class nowaklasadozadania {
     public static void main (String[] args){
-    System.out.println("wszystko ladnie123");}
+    System.out.println("wszystko ladnie1234");}
 }
